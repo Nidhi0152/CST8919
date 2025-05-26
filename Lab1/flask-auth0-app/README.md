@@ -32,14 +32,15 @@ This is a simple Python web application built with **Flask** and **Authlib**, us
 ### 1.  Clone the project
 
 ```bash
-git clone https://github.com/your-username/flask-auth0-app.git
+git clone https://github.com/Nidhi0152/CST8919.git
+cd Lab1
 cd flask-auth0-app
 ```
 
 ### 2.  Create and activate a virtual environment
 
 ```bash
-sudo apt install python3-venv  # if not already installed
+sudo apt install python3-venv  (if not installed)
 python3 -m venv venv
 source venv/bin/activate
 ```
