@@ -12,7 +12,7 @@ This is a simple Python web application built with **Flask** and **Authlib**, us
 - User login with Auth0
 - Session management with Flask
 - Protected route (`/protected`) for authenticated users
-- Basic UI using Jinja2 templates
+- Basic UI templates
 
 ---
 
@@ -20,7 +20,6 @@ This is a simple Python web application built with **Flask** and **Authlib**, us
 
 - **Python 3**
 - **Flask**
-- **Authlib**
 - **Auth0**
 - **dotenv** (for managing secrets)
 - **WSL or Linux environment**
